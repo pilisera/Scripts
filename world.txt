@@ -1,0 +1,12 @@
+size = 8
+law = 7
+temp = 10
+starport = A
+atm = 2
+pop = 7
+trade = ['Lt', 'Na']
+culture = 66
+code = True
+tech = 5
+gov = 10
+hydro = 3
